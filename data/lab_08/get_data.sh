@@ -1,0 +1,1 @@
+obspyDMT --datapath N41A_10hz --min_date 2014-01-01 --max_date 2023-01-01 --min_mag 6.3 --max_mag 7.0 --min_epi 30 --max_epi 90 --event_catalog IRIS --net N4 --sta N41A --cha HH* --preset 30 --offset 120 --instrument_correction --data_source IRIS --cut_time_phase --sampling_rate 10.0
